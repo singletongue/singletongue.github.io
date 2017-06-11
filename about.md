@@ -13,6 +13,7 @@ language processing, especially question answering and knowledge acquisition.
 ### 2016 -
 - Graduate School of Information Sciences, Tohoku University, Japan
     - Master Degree (Expected March 2018)
+
 ### 2010 - 2016
 - School of Engineering, Tohoku University, Japan
     - Bachelor Degree in Engineering (March 2016)
