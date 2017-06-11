@@ -24,11 +24,19 @@
         {% if site.github.is_user_page %}
           <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
-        
+
         {% if site.pages %}
           {% for p in site.pages %}
 			      <p class="page"><a href="{{ p.url }}">{{ p.title }}</a></p>
           {% endfor %}
+        {% endif %}
+
+        {% if site.links %}
+          <ul>
+            {% for l in site.links %}
+              <li><a href="{{ l.url }}">{{ l.name }}</a></li>
+            {% endfor %}
+          </ul>
         {% endif %}
 
         {% if site.show_downloads %}
