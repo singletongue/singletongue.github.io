@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
 title: Masatoshi Suzuki
 description: Graduate student at Tohoku University
-links: [{name: Twitter, url: "https://twitter.com/hstsmkzs"}]
+links: [{name: Twitter, url: "https://twitter.com/hstsmkzs"},
+        {name: GitHub, url: "https://github.com/singletongue"},
+        {name: "Inui-Okazaki Lab", url: "http://www.cl.ecei.tohoku.ac.jp"}]
