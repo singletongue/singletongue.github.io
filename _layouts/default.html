@@ -32,11 +32,9 @@
         {% endif %}
 
         {% if site.links %}
-          <ul>
-            {% for l in site.links %}
-              <li><a href="{{ l.url }}">{{ l.name }}</a></li>
-            {% endfor %}
-          </ul>
+          {% for l in site.links %}
+            <p class="link"><a href="{{ l.url }}">{{ l.name }}</a></p>
+          {% endfor %}
         {% endif %}
 
         {% if site.show_downloads %}
