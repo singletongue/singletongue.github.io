@@ -3,6 +3,8 @@ title: Publication
 date: 2017-06-11 12:00
 ---
 
+# Publication
+
 ## International Conferences
 
 1. **Masatoshi Suzuki**, Koji Matsuda, Satoshi Sekine, Naoaki Okazaki and Kentaro Inui. *Neural Joint Learning for Classifying Wikipedia Articles into Fine-grained Named Entity Types*. The 30th Pacific Asia Conference on Language, Information and Computation. Seoul, South Korea. 2016. (Poster) [PDF](https://www.aclweb.org/anthology/Y/Y16/Y16-3027.pdf)
