@@ -1,5 +1,7 @@
-Title: About
-Date: 2017-06-11 12:00
+---
+title: About
+date: 2017-06-11 12:00
+---
 
 ## Profile
 
