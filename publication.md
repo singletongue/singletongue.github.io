@@ -7,7 +7,7 @@ date: 2017-06-11 12:00
 
 ## Journal Papers
 
-1. **Masatoshi Suzuki**, Koji Matsuda, Satoshi Sekine, Naoaki Okazaki and Kentaro Inui. *A Joint Neural Model for Fine-Grained Named Entity Classification of Wikipedia Articles*. IEICE Transactions on Information and Systems, Special Section on Semantic Web and Linked Data, 2018. (To appear)
+1. **Masatoshi Suzuki**, Koji Matsuda, Satoshi Sekine, Naoaki Okazaki and Kentaro Inui. *A Joint Neural Model for Fine-Grained Named Entity Classification of Wikipedia Articles*. IEICE Transactions on Information and Systems, Special Section on Semantic Web and Linked Data, 2018. (Accepted)
 
 ## International Conferences
 
