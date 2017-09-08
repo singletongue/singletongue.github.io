@@ -1,13 +1,13 @@
 ---
 title: Publication
-date: 2017-06-11 12:00
+date: 2017-09-08 9:28
 ---
 
 # Publication
 
 ## Journal Papers
 
-1. **Masatoshi Suzuki**, Koji Matsuda, Satoshi Sekine, Naoaki Okazaki and Kentaro Inui. *A Joint Neural Model for Fine-Grained Named Entity Classification of Wikipedia Articles*. IEICE Transactions on Information and Systems, Special Section on Semantic Web and Linked Data, 2018. (Accepted)
+1. **Masatoshi Suzuki**, Koji Matsuda, Satoshi Sekine, Naoaki Okazaki and Kentaro Inui. *A Joint Neural Model for Fine-Grained Named Entity Classification of Wikipedia Articles*. IEICE Transactions on Information and Systems, Special Section on Semantic Web and Linked Data, Vol. E101-D, No.1, 2018, accepted.
 
 ## International Conferences
 
@@ -17,14 +17,18 @@ date: 2017-06-11 12:00
 
 ## Domestic Conferences
 
-1. **Masatoshi Suzuki**, Koji Matsuda, Satoshi Sekine, Naoaki Okazaki, Kentaro Inui. *Multiple Labeling of Extended Named Entity Classes on Wikipedia Articles*. Annual Meeting of the Association for Natural Language Processing. Sendai, Japan. 2016. (In Japanese) [PDF](http://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/A5-2.pdf)
+1. **鈴木正敏**, 松田耕史, 岡崎直観, 乾健太郎. *Wikipedia を知識源に用いた文書検索と読解によるクイズ解答システム*. 第12回NLP若手の会 シンポジウム, 那覇, 2017. (Poster)
 
-1. Satoshi Sekine, Maya Ando, Koji Matsuda, **Masatoshi Suzuki**, Kentaro Inui. *"Extended Named Entity + Wikipedia" Dataset*. Annual Meeting of the Association for Natural Language Processing. Sendai, Japan. 2016. (In Japanese) [PDF](http://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/P2-4.pdf)
+1. 伊藤拓海, **鈴木正敏**, 田然, 山口健史, 岡崎直観, 乾健太郎. *自治体QAサービスのためのFAQの自治体間の横断的解析*. 第12回NLP若手の会 シンポジウム, 那覇, 2017. (Poster)
 
-1. **Masatoshi Suzuki**, Koji Matsuda, Satoshi Sekine, Naoaki Okazaki, Kentaro Inui. *Automatic Classification of Wikipedia Entries into Extended Named Entity Hierarchy*. NLP Symposium for Young Researchers. Ishikawa, Japan. 2015. (Poster, In Japanese)
+1. **鈴木正敏**, 松田耕史, 関根聡, 岡崎直観, 乾健太郎. *Wikipedia記事に対する拡張固有表現ラベルの多重付与*. 言語処理学会第22回年次大会予稿集, pp.797-800, 仙台, 2016. [PDF](http://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/A5-2.pdf)
+
+1. 関根聡, 安藤まや, 松田耕史, **鈴木正敏**, 乾健太郎. *「拡張固有表表現+Wikipedia」データ*. pp.41-44, 言語処理学会第22回年次大会予稿集, pp.41-44, 仙台, 2016. [PDF](http://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/P2-4.pdf)
+
+1. **鈴木正敏**, 松田耕史, 関根聡, 岡崎直観, 乾健太郎. *Wikipediaエントリの拡張固有表現階層への自動分類*. 第10回NLP若手の会 シンポジウム, 金沢, 2015. (Poster)
 
 ## Dissertations
 
 ### Bachelor
 
-- Multiple Labeling of Extended Named Entity Classes on Wikipedia Articles (in Japanese) [PDF](http://www.cl.ecei.tohoku.ac.jp/publications/2016/msuzuki_bthesis.pdf)
+- Wikipedia 記事への拡張固有表現ラベルの多重付与 [PDF](http://www.cl.ecei.tohoku.ac.jp/publications/2016/msuzuki_bthesis.pdf)
