@@ -11,9 +11,9 @@ date: 2017-09-08 9:28
 
 ## International Conferences
 
-1. **Masatoshi Suzuki**, Koji Matsuda, Satoshi Sekine, Naoaki Okazaki and Kentaro Inui. *Neural Joint Learning for Classifying Wikipedia Articles into Fine-grained Named Entity Types*. The 30th Pacific Asia Conference on Language, Information and Computation. Seoul, South Korea. 2016. (Poster) [PDF](https://www.aclweb.org/anthology/Y/Y16/Y16-3027.pdf)
+1. **Masatoshi Suzuki**, Koji Matsuda, Satoshi Sekine, Naoaki Okazaki and Kentaro Inui. *Neural Joint Learning for Classifying Wikipedia Articles into Fine-grained Named Entity Types*. The 30th Pacific Asia Conference on Language, Information and Computation, Seoul, South Korea, 2016. (Poster) [PDF](https://www.aclweb.org/anthology/Y/Y16/Y16-3027.pdf)
 
-1. **Masatoshi Suzuki**, Koji Matuda, Satoshi Sekine, Naoaki Okazaki, and Kentaro Inui. *Fine-Grained Named Entity Classiﬁcation with Wikipedia Article Vectors*. IEEE/WIC/ACM International Conference on Web Intelligence. Omaha, U.S.. 2016.
+1. **Masatoshi Suzuki**, Koji Matuda, Satoshi Sekine, Naoaki Okazaki, and Kentaro Inui. *Fine-Grained Named Entity Classiﬁcation with Wikipedia Article Vectors*. IEEE/WIC/ACM International Conference on Web Intelligence, Omaha, U.S., 2016.
 
 ## Domestic Conferences
 
