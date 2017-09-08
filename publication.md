@@ -23,7 +23,7 @@ date: 2017-09-08 9:28
 
 1. **鈴木正敏**, 松田耕史, 関根聡, 岡崎直観, 乾健太郎. *Wikipedia記事に対する拡張固有表現ラベルの多重付与*. 言語処理学会第22回年次大会予稿集, pp.797-800, 仙台, 2016. [PDF](http://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/A5-2.pdf)
 
-1. 関根聡, 安藤まや, 松田耕史, **鈴木正敏**, 乾健太郎. *「拡張固有表表現+Wikipedia」データ*. pp.41-44, 言語処理学会第22回年次大会予稿集, pp.41-44, 仙台, 2016. [PDF](http://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/P2-4.pdf)
+1. 関根聡, 安藤まや, 松田耕史, **鈴木正敏**, 乾健太郎. *「拡張固有表現+Wikipedia」データ*. pp.41-44, 言語処理学会第22回年次大会予稿集, pp.41-44, 仙台, 2016. [PDF](http://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/P2-4.pdf)
 
 1. **鈴木正敏**, 松田耕史, 関根聡, 岡崎直観, 乾健太郎. *Wikipediaエントリの拡張固有表現階層への自動分類*. 第10回NLP若手の会 シンポジウム, 金沢, 2015. (Poster)
 
