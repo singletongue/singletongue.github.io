@@ -1,6 +1,6 @@
 ---
 title: Publication
-date: 2017-09-08 9:28
+date: 2018-03-29 15:00
 ---
 
 # Publication
@@ -17,6 +17,10 @@ date: 2017-09-08 9:28
 
 ## Domestic Conferences
 
+1. **鈴木正敏**, 松田耕史, 岡崎直観, 乾健太郎. *読解による解答可能性を付与した質問応答データセットの構築*. 言語処理学会第24回年次大会予稿集, pp.702-705, 2018. [PDF](http://anlp.jp/proceedings/annual_meeting/2018/pdf_dir/C4-5.pdf)
+
+1. 関根聡, 安藤まや, 小林暁雄, 松田耕史, **鈴木正敏**, Duc Nguyen, 乾健太郎. *「拡張固有表表現+Wikipedia」データ(2015年11月版Wikipedia 分類作業完成版)*. 言語処理学会第24回年次大会予稿集. pp.504-507, 2018. [PDF](http://anlp.jp/proceedings/annual_meeting/2018/pdf_dir/P4-5.pdf)
+
 1. **鈴木正敏**, 松田耕史, 岡崎直観, 乾健太郎. *Wikipedia を知識源に用いた文書検索と読解によるクイズ解答システム*. 第12回NLP若手の会 シンポジウム, 那覇, 2017. (Poster)
 
 1. 伊藤拓海, **鈴木正敏**, 田然, 山口健史, 岡崎直観, 乾健太郎. *自治体QAサービスのためのFAQの自治体間の横断的解析*. 第12回NLP若手の会 シンポジウム, 那覇, 2017. (Poster)
@@ -29,6 +33,16 @@ date: 2017-09-08 9:28
 
 ## Dissertations
 
+### Master
+
+- 情報検索と文章読解を組み合わせた質問応答システム
+
 ### Bachelor
 
 - Wikipedia 記事への拡張固有表現ラベルの多重付与 [PDF](http://www.cl.ecei.tohoku.ac.jp/publications/2016/msuzuki_bthesis.pdf)
+
+# Awards
+
+1. 言語処理学会第24回年次大会 若手奨励賞, March 12th 2018.
+
+1. 情報処理学会東北支部学生奨励賞, March 12th 2016.
