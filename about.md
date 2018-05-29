@@ -7,7 +7,7 @@ date: 2017-06-11 12:00
 
 ## Profile
 
-**Masatoshi Suzuki** is a graduate student at Graduate School of Information
+**Masatoshi Suzuki** is a Ph.D. student at Graduate School of Information
 Sciences, Tohoku University.
 He is majoring in computer science, and his research interests are in natural
 language processing, especially question answering and knowledge acquisition.
