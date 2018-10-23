@@ -1,6 +1,6 @@
 ---
 title: About me
-date: 2017-06-11 12:00
+date: 2018-10-23 13:25
 ---
 
 # About me
@@ -16,7 +16,8 @@ language processing, especially question answering and knowledge acquisition.
 
 ### 2016 -
 - Graduate School of Information Sciences, Tohoku University, Japan
-    - Master Degree (Expected March 2018)
+    - Ph.D. Course (March 2021, expected)
+    - Master Degree (March 2018)
 
 ### 2010 - 2016
 - School of Engineering, Tohoku University, Japan
