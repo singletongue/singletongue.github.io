@@ -1,6 +1,6 @@
 ---
-title: About
-date: 2020-02-09 19:15
+layout: home
+title: Profile
 ---
 
 鈴木正敏（すずき・まさとし）

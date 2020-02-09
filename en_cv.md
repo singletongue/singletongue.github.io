@@ -1,6 +1,7 @@
 ---
+layout: page
 title: English CV
-date: 2020-02-09 19:25
+permalink: /english_cv/
 ---
 
 ## Profile
