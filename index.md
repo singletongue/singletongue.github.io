@@ -1,21 +1,14 @@
 ---
-title: Masatoshi Suzuki
-date: 2020-02-09 19:00
+title: About
+date: 2020-02-09 19:15
 ---
 
-# Masatoshi Suzuki
 鈴木正敏（すずき・まさとし）
 
-
-東北大学 [大学院情報科学研究科](https://www.is.tohoku.ac.jp/) [乾・鈴木研究室](https://www.nlp.ecei.tohoku.ac.jp/) 博士後期課程学生
-
-東北大学 [学際高等研究教育院](http://www.iiare.tohoku.ac.jp/) 博士研究教育院生
-
-日本学術振興会 [特別研究員](https://www.jsps.go.jp/j-pd/index.html) DC2
-
-理化学研究所 [革新知能統合研究センター](https://www.riken.jp/research/labs/aip/) [言語情報アクセス技術チーム](https://www.riken.jp/research/labs/aip/goalorient_tech/lang_inf_access_tech/index.html) 研修生
-
-- GitHub [@singletongue](https://github.com/singletongue/)
+- 東北大学 [大学院情報科学研究科](https://www.is.tohoku.ac.jp/) [乾・鈴木研究室](https://www.nlp.ecei.tohoku.ac.jp/) 博士後期課程学生
+- 東北大学 [学際高等研究教育院](http://www.iiare.tohoku.ac.jp/) 博士研究教育院生
+- 日本学術振興会 [特別研究員](https://www.jsps.go.jp/j-pd/index.html) DC2
+- 理化学研究所 [革新知能統合研究センター](https://www.riken.jp/research/labs/aip/) [言語情報アクセス技術チーム](https://www.riken.jp/research/labs/aip/goalorient_tech/lang_inf_access_tech/index.html) 研修生
 
 ## 研究内容
 
@@ -36,15 +29,11 @@ date: 2020-02-09 19:00
 
 ## 公開リソース
 
-### 日本語 BERT 訓練済みモデル
-
-- [GitHub](https://github.com/cl-tohoku/bert-japanese)
+### [日本語 BERT 訓練済みモデル](https://github.com/cl-tohoku/bert-japanese)
 
 日本語版 Wikipedia をコーパスに用いて訓練した、汎用言語モデル BERT の訓練済みモデル。MeCab (ipadic) とWordPiece で単語分割したモデルと、文字単位で単語分割したモデルの2種類を公開中。自然言語処理ライブラリの [Transformers](https://github.com/huggingface/transformers) でも訓練済みモデルとして[利用可能](https://huggingface.co/transformers/pretrained_models.html)。
 
-### 日本語 Wikipedia エンティティベクトル
-
-- [GitHub](https://github.com/singletongue/WikiEntVec)
+### [日本語 Wikipedia エンティティベクトル](https://github.com/singletongue/WikiEntVec)
 
 日本語版 Wikipedia をコーパスに用いて訓練した、単語とエンティティの分散表現。記事本文中の記事間リンクおよび言及を、そのエンティティを表すシンボルとみなし、負例サンプリング付き Skip-gram により分散表現を学習したもの。
 
