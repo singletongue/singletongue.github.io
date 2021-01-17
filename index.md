@@ -40,28 +40,34 @@
 
 ### 論文誌
 
-1. <u>Masatoshi Suzuki</u>, Koji Matsuda, Satoshi Sekine, Naoaki Okazaki, Kentaro Inui. A Joint Neural Model for Fine-Grained Named Entity Classification of Wikipedia Articles. IEICE Transactions on Information and Systems, 2018. [DOI](https://doi.org/10.1587/transinf.2017SWP0005)
+1. <u>鈴木正敏</u>, 松田耕史, 大内啓樹, 鈴木潤, 乾健太郎. データ指向型アプローチによるクローズドブック質問応答. 自然言語処理, Vol.28, No.1, March 2021 (To appear).
+1. <u>Masatoshi Suzuki</u>, Koji Matsuda, Satoshi Sekine, Naoaki Okazaki, Kentaro Inui. A Joint Neural Model for Fine-Grained Named Entity Classification of Wikipedia Articles. IEICE Transactions on Information and Systems, Vol. E101.D, No.1, pp.73--81, January 2018. [DOI](https://doi.org/10.1587/transinf.2017SWP0005)
 
 ### 国際会議論文（査読あり）
 
-1. <u>Masatoshi Suzuki</u>, Koji Matsuda, Satoshi Sekine, Naoaki Okazaki, Kentaro Inui. Neural Joint Learning for Classifying Wikipedia Articles into Fine-grained Named Entity Types. In Proceedings of the 30th Pacific Asia Conference on Language, Information and Computation (PACLIC 30), 2016. [論文PDF](https://www.aclweb.org/anthology/Y/Y16/Y16-3027.pdf)
-1. <u>Masatoshi Suzuki</u>, Koji Matsuda, Satoshi Sekine, Naoaki Okazaki, Kentaro Inui. Fine-Grained Named Entity Classification with Wikipedia Article Vectors. In 2016 IEEE/WIC/ACM International Conference on Web Intelligence (WI 2016), 2016. [DOI](https://doi.org/10.1109/WI.2016.0080)
+1. <u>Masatoshi Suzuki</u>, Koji Matsuda, Satoshi Sekine, Naoaki Okazaki, Kentaro Inui. Neural Joint Learning for Classifying Wikipedia Articles into Fine-grained Named Entity Types. In Proceedings of the 30th Pacific Asia Conference on Language, Information and Computation (PACLIC 30), October 2016. [論文PDF](https://www.aclweb.org/anthology/Y/Y16/Y16-3027.pdf)
+1. <u>Masatoshi Suzuki</u>, Koji Matsuda, Satoshi Sekine, Naoaki Okazaki, Kentaro Inui. Fine-Grained Named Entity Classification with Wikipedia Article Vectors. In 2016 IEEE/WIC/ACM International Conference on Web Intelligence (WI 2016), October 2016. [DOI](https://doi.org/10.1109/WI.2016.0080)
 
 ### 国内会議論文（査読なし）
 
-1. <u>鈴木正敏</u>, 鈴木潤, 松田耕史, 西田京介, 井之上直也. 2020. JAQKET: クイズを題材にした日本語QAデータセットの構築. 言語処理学会 第26回年次大会 (NLP 2020), pages 237--240. [論文PDF](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P2-24.pdf)
-1. <u>鈴木正敏</u>, 松田耕史, 大内啓樹, 鈴木潤, 乾健太郎. 2019. クイズ解答タスクにおける大規模ラベルなしコーパスの利用: 言語モデルとデータ拡張. 情報処理学会 第241回自然言語処理研究会 (IPSJ-SIGNL). <u>**優秀研究賞**</u>
-1. <u>鈴木正敏</u>, 松田耕史, 大内啓樹, 鈴木潤, 乾健太郎. 2019. クイズ解答タスクにおける大規模ラベルなしコーパスの利用: 言語モデルとデータ拡張. 第14回NLP若手の会 シンポジウム (YANS 2019). [ポスターPDF](https://drive.google.com/open?id=1VMHfRDImNnva9yAk4c1QtgQDAfhznaMw)
-1. 松田耕史, <u>鈴木正敏</u>, 乾健太郎. 2019. Wikidata からの遠距離教師あり学習に基づく大規模関係知識獲得. 言語処理学会 第25回年次大会 (NLP 2019), pages 659--662. [論文PDF](http://anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P3-38.pdf)
-1. 佐藤拓海, 大内啓樹, 松田耕史, <u>鈴木正敏</u>, 鈴木潤, 乾健太郎. 2019. 強化学習によるプログラム⽣成のためのプログラム系列分析. 言語処理学会 第25回年次大会 (NLP 2019), pages 1010--1013. [ポスターPDF](http://anlp.jp/proceedings/annual_meeting/2019/pdf_dir/E5-2.pdf)
-1. 阿部香央莉, 佐藤志貴, 佐藤拓海, 藤井諒, 松田耕史, <u>鈴木正敏</u>, 山口健史, 赤間怜奈, 大内啓樹, 鈴木潤, 乾健太郎. 2018. Zunkobot: 複数の知識モジュールを統合した雑談対話システム. 人工知能学会 言語・音声理解と対話処理研究会 (SLUD) 第84回研究会（第9回対話システムシンポジウム）, B5(02):112--117.
-1. <u>鈴木正敏</u>, 松田耕史, 岡崎直観, 乾健太郎. 2018. 読解による解答可能性を付与した質問応答データセットの構築. 言語処理学会 第24回年次大会 (NLP 2018), pages 702--705. [論文PDF](http://anlp.jp/proceedings/annual_meeting/2018/pdf_dir/C4-5.pdf) <u>**若手奨励賞**</u>
-1. 関根聡, 安藤まや, 小林暁雄, 松田耕史, <u>鈴木正敏</u>, Duc Nguyen, 乾健太郎. 2018. 「拡張固有表表現＋Wikipedia」データ（2015年11月版Wikipedia分類作業完成版）. 言語処理学会 第24回年次大会 (NLP 2018), pages 504--507. [論文PDF](http://anlp.jp/proceedings/annual_meeting/2018/pdf_dir/P4-5.pdf)
-1. <u>鈴木正敏</u>, 松田耕史, 岡崎直観, 乾健太郎. 2017. Wikipedia を知識源に用いた文書検索と読解によるクイズ解答システム. 第12回NLP若手の会 シンポジウム (YANS 2017).
-1. 伊藤拓海, <u>鈴木正敏</u>, 田然, 山口健史, 岡崎直観, 乾健太郎. 2017. 自治体 QA サービスのための FAQ の自治体間の横断的解析. 第12回NLP若手の会 シンポジウム (YANS 2017).
-1. 関根聡, 安藤まや, 松田耕史, <u>鈴木正敏</u>, 乾健太郎. 2016. 「拡張固有表表現＋Wikipedia」データ. 言語処理学会 第22回年次大会 (NLP 2016), pages 41--44. [論文PDF](http://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/P2-4.pdf)
-1. <u>鈴木正敏</u>, 松田耕史, 関根聡, 岡崎直観, 乾健太郎. 2016. Wikipedia 記事に対する拡張固有表現ラベルの多重付与. 言語処理学会 第22回年次大会 (NLP 2016), pages 797--800. [論文PDF](http://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/A5-2.pdf)
-1. <u>鈴木正敏</u>, 松田耕史, 関根聡, 岡崎直観, 乾健太郎. 2015. Wikipedia エントリの拡張固有表現階層への自動分類. 第10回NLP若手の会 シンポジウム (YANS 2015).
+1. <u>鈴木正敏</u>, 松田耕史, 大内啓樹, 鈴木潤, 乾健太郎. オープンドメイン質問応答における解答可能性判別の役割. 言語処理学会 第27回年次大会 (NLP 2021), March 2021 (to appear).
+1. <u>鈴木正敏</u>, 鈴木潤, 松田耕史, 西田京介, 井之上直也. JAQKET: クイズを題材にした日本語QAデータセットの構築. 言語処理学会 第26回年次大会 (NLP 2020), pp.237--240, March 2020. [論文PDF](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P2-24.pdf)
+1. <u>鈴木正敏</u>, 松田耕史, 大内啓樹, 鈴木潤, 乾健太郎. クイズ解答タスクにおける大規模ラベルなしコーパスの利用: 言語モデルとデータ拡張. 情報処理学会 第241回自然言語処理研究会 (IPSJ-SIGNL), August 2019. <u>**優秀研究賞**</u>
+1. <u>鈴木正敏</u>, 松田耕史, 大内啓樹, 鈴木潤, 乾健太郎. クイズ解答タスクにおける大規模ラベルなしコーパスの利用: 言語モデルとデータ拡張. 第14回NLP若手の会 シンポジウム (YANS 2019), August 2019. [ポスターPDF](https://drive.google.com/open?id=1VMHfRDImNnva9yAk4c1QtgQDAfhznaMw)
+1. 松田耕史, <u>鈴木正敏</u>, 乾健太郎. Wikidata からの遠距離教師あり学習に基づく大規模関係知識獲得. 言語処理学会 第25回年次大会 (NLP 2019), pp.659--662, March 2019. [論文PDF](http://anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P3-38.pdf)
+1. 佐藤拓海, 大内啓樹, 松田耕史, <u>鈴木正敏</u>, 鈴木潤, 乾健太郎. 強化学習によるプログラム⽣成のためのプログラム系列分析. 言語処理学会 第25回年次大会 (NLP 2019), pp.1010--1013, March 2019. [ポスターPDF](http://anlp.jp/proceedings/annual_meeting/2019/pdf_dir/E5-2.pdf)
+1. 阿部香央莉, 佐藤志貴, 佐藤拓海, 藤井諒, 松田耕史, <u>鈴木正敏</u>, 山口健史, 赤間怜奈, 大内啓樹, 鈴木潤, 乾健太郎. Zunkobot: 複数の知識モジュールを統合した雑談対話システム. 人工知能学会 言語・音声理解と対話処理研究会 (SLUD) 第84回研究会（第9回対話システムシンポジウム）, Vol.B5, No.02, pp.112--117, November 2018.
+1. <u>鈴木正敏</u>, 松田耕史, 岡崎直観, 乾健太郎. 読解による解答可能性を付与した質問応答データセットの構築. 言語処理学会 第24回年次大会 (NLP 2018), pp.702--705, March 2018. [論文PDF](http://anlp.jp/proceedings/annual_meeting/2018/pdf_dir/C4-5.pdf) <u>**若手奨励賞**</u>
+1. 関根聡, 安藤まや, 小林暁雄, 松田耕史, <u>鈴木正敏</u>, Duc Nguyen, 乾健太郎. 「拡張固有表表現＋Wikipedia」データ（2015年11月版Wikipedia分類作業完成版）. 言語処理学会 第24回年次大会 (NLP 2018), pp.504--507, March 2018. [論文PDF](http://anlp.jp/proceedings/annual_meeting/2018/pdf_dir/P4-5.pdf)
+1. <u>鈴木正敏</u>, 松田耕史, 岡崎直観, 乾健太郎. Wikipedia を知識源に用いた文書検索と読解によるクイズ解答システム. 第12回NLP若手の会 シンポジウム (YANS 2017), September 2017.
+1. 伊藤拓海, <u>鈴木正敏</u>, 田然, 山口健史, 岡崎直観, 乾健太郎. 自治体 QA サービスのための FAQ の自治体間の横断的解析. 第12回NLP若手の会 シンポジウム (YANS 2017), September 2017.
+1. 関根聡, 安藤まや, 松田耕史, <u>鈴木正敏</u>, 乾健太郎. 「拡張固有表表現＋Wikipedia」データ. 言語処理学会 第22回年次大会 (NLP 2016), pp.41--44, March 2016. [論文PDF](http://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/P2-4.pdf)
+1. <u>鈴木正敏</u>, 松田耕史, 関根聡, 岡崎直観, 乾健太郎. Wikipedia 記事に対する拡張固有表現ラベルの多重付与. 言語処理学会 第22回年次大会 (NLP 2016), pp.797--800, March 2016. [論文PDF](http://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/A5-2.pdf)
+1. <u>鈴木正敏</u>, 松田耕史, 関根聡, 岡崎直観, 乾健太郎. Wikipedia エントリの拡張固有表現階層への自動分類. 第10回NLP若手の会 シンポジウム (YANS 2015), September 2015.
+
+### そのほか
+
+1. Sewon Min, Jordan Boyd-Graber, Chris Alberti, Danqi Chen, Eunsol Choi, Michael Collins, Kelvin Guu, Hannaneh Hajishirzi, Kenton Lee, Jennimaria Palomaki, Colin Raffel, Adam Roberts, Tom Kwiatkowski, Patrick Lewis, Yuxiang Wu, Heinrich Küttler, Linqing Liu, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel, Sohee Yang, Minjoon Seo, Gautier Izacard, Fabio Petroni, Lucas Hosseini, Nicola De Cao, Edouard Grave, Ikuya Yamada, Sonse Shimaoka, <u>Masatoshi Suzuki</u>, Shumpei Miyawaki, Shun Sato, Ryo Takahashi, Jun Suzuki, Martin Fajcik, Martin Docekal, Karel Ondrej, Pavel Smrz, Hao Cheng, Yelong Shen, Xiaodong Liu, Pengcheng He, Weizhu Chen, Jianfeng Gao, Barlas Oguz, Xilun Chen, Vladimir Karpukhin, Stan Peshterliev, Dmytro Okhonko, Michael Schlichtkrull, Sonal Gupta, Yashar Mehdad, Wen-tau Yih. NeurIPS 2020 EfficientQA Competition: Systems, Analyses and Lessons Learned. CoRR, arXiv:2101.00133, December 2020. [arXiv](https://arxiv.org/abs/2101.00133)
 
 ### 学位論文
 
