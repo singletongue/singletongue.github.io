@@ -21,26 +21,26 @@
 2019/04--現在: 日本学術振興会 特別研究員（DC2）
 2018/04--現在: 東北大学 大学院情報科学研究科 博士後期課程
 2018/04--現在: 東北大学 学際高等研究教育院 博士研究教育院生
-2016/04--2018/03: 東北大学 大学院情報科学研究科 博士前期課程（卒業）
+2016/04--2018/03: 東北大学 大学院情報科学研究科 博士前期課程（修了）
 2016/04--2018/03: 公益財団法人 尚志社 奨学生
 2010/04--2016/03: 東北大学 工学部情報知能システム総合学科（卒業）
 2007-04--2010/03: 宮城県仙台第一高等学校（通信制課程を卒業）
 
 ## 公開リソース
 
-### [日本語BERT訓練済みモデル](https://github.com/cl-tohoku/bert-japanese)
+### [日本語 BERT 訓練済みモデル](https://github.com/cl-tohoku/bert-japanese)
 
-日本語版Wikipediaをコーパスに用いて訓練した、汎用言語モデルBERTの訓練済みモデル。MeCab (ipadic)とWordPieceで単語分割したモデルと、文字単位で単語分割したモデルの2種類を公開中。自然言語処理ライブラリの[Transformers](https://github.com/huggingface/transformers)でも訓練済みモデルとして[利用可能](https://huggingface.co/transformers/pretrained_models.html)。
+日本語版 Wikipedia をコーパスに用いて訓練した、汎用言語モデル BERT の訓練済みモデル。MeCab (ipadic) と WordPiece で単語分割したモデルと、文字単位で単語分割したモデルの2種類を公開中。自然言語処理ライブラリの [Transformers](https://github.com/huggingface/transformers) でも訓練済みモデルとして[利用可能](https://huggingface.co/transformers/pretrained_models.html)。
 
 ### [日本語 Wikipedia エンティティベクトル](https://github.com/singletongue/WikiEntVec)
 
-日本語版Wikipediaをコーパスに用いて訓練した、単語とエンティティの分散表現。記事本文中の記事間リンクおよび言及をそのエンティティを表すシンボルとみなし、負例サンプリング付きSkip-gramにより分散表現を学習したもの。
+日本語版 Wikipedia をコーパスに用いて訓練した、単語とエンティティの分散表現。記事本文中の記事間リンクおよび言及をそのエンティティを表すシンボルとみなし、負例サンプリング付き Skip-gram により分散表現を学習したもの。
 
 ## 論文・発表
 
 ### 論文誌
 
-1. <u>鈴木正敏</u>, 松田耕史, 大内啓樹, 鈴木潤, 乾健太郎. データ指向型アプローチによるクローズドブック質問応答. 自然言語処理, Vol.28, No.1, March 2021 (To appear).
+1. <u>鈴木正敏</u>, 松田耕史, 大内啓樹, 鈴木潤, 乾健太郎. データ指向型アプローチによるクローズドブック質問応答. 自然言語処理, Vol.28, No.1, March 2021 (to appear).
 1. <u>Masatoshi Suzuki</u>, Koji Matsuda, Satoshi Sekine, Naoaki Okazaki, Kentaro Inui. A Joint Neural Model for Fine-Grained Named Entity Classification of Wikipedia Articles. IEICE Transactions on Information and Systems, Vol. E101.D, No.1, pp.73--81, January 2018. [DOI](https://doi.org/10.1587/transinf.2017SWP0005)
 
 ### 国際会議論文（査読あり）
@@ -100,11 +100,11 @@ Wikipedia 記事への拡張固有表現ラベルの多重付与 [論文PDF](htt
 
 ## クイズ番組出場歴
 
-- フジテレビ『超逆境クイズバトル!! 99人の壁』（2017年12月31日放送）
-    - 挑戦ジャンル「英語」で出場（センター進出はならず）
-- NHK BSプレミアム『たけしのこれがホントのニッポン芸能史』（2019年9月4日放送）
-    - 番組内クイズ企画「クイズ！クイズ番組」に出場（1回戦敗退）
-- テレビ東京『サンドウィッチマンの脱落テスト！』（2020年7月13日放送）
-    - 漢字がテーマの回で「伊達"日本人"軍」の一員として出場
 - TBS『東大王』（2020年9月23日放送）
     - 視聴者代表200人の一員として出場（1stステージ敗退）
+- テレビ東京『サンドウィッチマンの脱落テスト！』（2020年7月13日放送）
+    - 漢字がテーマの回で「伊達"日本人"軍」の一員として出場
+- NHK BSプレミアム『たけしのこれがホントのニッポン芸能史』（2019年9月4日放送）
+    - 番組内クイズ企画「クイズ！クイズ番組」に出場（1回戦敗退）
+- フジテレビ『超逆境クイズバトル!! 99人の壁』（2017年12月31日放送）
+    - 挑戦ジャンル「英語」で出場（センター進出はならず）
