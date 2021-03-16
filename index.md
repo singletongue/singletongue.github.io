@@ -41,7 +41,7 @@
 
 ### 論文誌
 
-1. <u>鈴木正敏</u>, 松田耕史, 大内啓樹, 鈴木潤, 乾健太郎. データ指向型アプローチによるクローズドブック質問応答. 自然言語処理, Vol.28, No.1, March 2021 (to appear).
+1. <u>鈴木正敏</u>, 松田耕史, 大内啓樹, 鈴木潤, 乾健太郎. データ指向型アプローチによるクローズドブック質問応答. 自然言語処理, Vol.28, No.1, March 2021. [DOI](https://doi.org/10.5715/jnlp.28.3)
 1. <u>Masatoshi Suzuki</u>, Koji Matsuda, Satoshi Sekine, Naoaki Okazaki, Kentaro Inui. A Joint Neural Model for Fine-Grained Named Entity Classification of Wikipedia Articles. IEICE Transactions on Information and Systems, Vol. E101.D, No.1, pp.73--81, January 2018. [DOI](https://doi.org/10.1587/transinf.2017SWP0005)
 
 ### 国際会議論文（査読あり）
@@ -51,7 +51,7 @@
 
 ### 国内会議論文（査読なし）
 
-1. <u>鈴木正敏</u>, 松田耕史, 大内啓樹, 鈴木潤, 乾健太郎. オープンドメイン質問応答における解答可能性判別の役割. 言語処理学会 第27回年次大会 (NLP 2021), March 2021 (to appear).
+1. <u>鈴木正敏</u>, 松田耕史, 大内啓樹, 鈴木潤, 乾健太郎. オープンドメイン質問応答における解答可能性判別の役割. 言語処理学会 第27回年次大会 (NLP 2021), March 2021.
 1. <u>鈴木正敏</u>, 鈴木潤, 松田耕史, 西田京介, 井之上直也. JAQKET: クイズを題材にした日本語QAデータセットの構築. 言語処理学会 第26回年次大会 (NLP 2020), pp.237--240, March 2020. [論文PDF](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P2-24.pdf)
 1. <u>鈴木正敏</u>, 松田耕史, 大内啓樹, 鈴木潤, 乾健太郎. クイズ解答タスクにおける大規模ラベルなしコーパスの利用: 言語モデルとデータ拡張. 情報処理学会 第241回自然言語処理研究会 (IPSJ-SIGNL), August 2019. <u>**優秀研究賞**</u>
 1. <u>鈴木正敏</u>, 松田耕史, 大内啓樹, 鈴木潤, 乾健太郎. クイズ解答タスクにおける大規模ラベルなしコーパスの利用: 言語モデルとデータ拡張. 第14回NLP若手の会 シンポジウム (YANS 2019), August 2019. [ポスターPDF](https://drive.google.com/open?id=1VMHfRDImNnva9yAk4c1QtgQDAfhznaMw)
