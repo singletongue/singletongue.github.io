@@ -9,6 +9,7 @@
 日本学術振興会 [特別研究員](https://www.jsps.go.jp/j-pd/index.html) DC2
 理化学研究所 [革新知能統合研究センター](https://www.riken.jp/research/labs/aip/) [言語情報アクセス技術チーム](https://www.riken.jp/research/labs/aip/goalorient_tech/lang_inf_access_tech/index.html) 研修生
 
+- Twitter [@fivehints](https://twitter.com/fivehints)
 - GitHub [@singletongue](https://github.com/singletongue/)
 
 ## 研究内容
