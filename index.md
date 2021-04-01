@@ -4,26 +4,20 @@
 
 鈴木正敏（すずき・まさとし）
 
-東北大学 [大学院情報科学研究科](https://www.is.tohoku.ac.jp/) [乾・鈴木研究室](https://www.nlp.ecei.tohoku.ac.jp/) 博士後期課程学生
-東北大学 [学際高等研究教育院](http://www.iiare.tohoku.ac.jp/) 博士研究教育院生
-日本学術振興会 [特別研究員](https://www.jsps.go.jp/j-pd/index.html) DC2
-理化学研究所 [革新知能統合研究センター](https://www.riken.jp/research/labs/aip/) [言語情報アクセス技術チーム](https://www.riken.jp/research/labs/aip/goalorient_tech/lang_inf_access_tech/index.html) 研修生
+博士（情報科学）。2021年東北大学大学院情報科学研究科博士後期課程修了。現在、株式会社 Studio Ousia ソフトウェアエンジニア。
 
 - Twitter [@fivehints](https://twitter.com/fivehints)
 - GitHub [@singletongue](https://github.com/singletongue/)
 
-## 研究内容
-
-専門は自然言語処理。学部4年（2015年）より、固有表現分類、質問応答システムの研究に取り組む。現在は主に、クイズ問題を利用した言語理解システムの開発・評価について研究中。
-
 ## 略歴
 
-2019/05--現在: 理化学研究所 革新知能統合研究センター 言語情報アクセス技術チーム 研修生
-2019/04--現在: 日本学術振興会 特別研究員（DC2）
-2018/04--現在: 東北大学 大学院情報科学研究科 博士後期課程
-2018/04--現在: 東北大学 学際高等研究教育院 博士研究教育院生
+2021/04--現在: [株式会社 Studio Ousia](https://www.ousia.jp/ja/)
+2019/05--2021/03: [理化学研究所 革新知能統合研究センター](https://www.riken.jp/research/labs/aip/) [言語情報アクセス技術チーム](https://www.riken.jp/research/labs/aip/goalorient_tech/lang_inf_access_tech/index.html) 研修生
+2019/04--2021/03: [日本学術振興会 特別研究員](https://www.jsps.go.jp/j-pd/index.html)（DC2）
+2018/04--2021/03: [東北大学 大学院情報科学研究科](https://www.is.tohoku.ac.jp/) 博士後期課程（修了）
+2018/04--2021/03: [東北大学 学際高等研究教育院](http://www.iiare.tohoku.ac.jp/) 博士研究教育院生
 2016/04--2018/03: 東北大学 大学院情報科学研究科 博士前期課程（修了）
-2016/04--2018/03: 公益財団法人 尚志社 奨学生
+2016/04--2018/03: [公益財団法人 尚志社](https://www.shoshisha.or.jp/) 奨学生
 2010/04--2016/03: 東北大学 工学部情報知能システム総合学科（卒業）
 2007-04--2010/03: 宮城県仙台第一高等学校（通信制課程を卒業）
 
@@ -71,6 +65,10 @@
 1. Sewon Min, Jordan Boyd-Graber, Chris Alberti, Danqi Chen, Eunsol Choi, Michael Collins, Kelvin Guu, Hannaneh Hajishirzi, Kenton Lee, Jennimaria Palomaki, Colin Raffel, Adam Roberts, Tom Kwiatkowski, Patrick Lewis, Yuxiang Wu, Heinrich Küttler, Linqing Liu, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel, Sohee Yang, Minjoon Seo, Gautier Izacard, Fabio Petroni, Lucas Hosseini, Nicola De Cao, Edouard Grave, Ikuya Yamada, Sonse Shimaoka, <u>Masatoshi Suzuki</u>, Shumpei Miyawaki, Shun Sato, Ryo Takahashi, Jun Suzuki, Martin Fajcik, Martin Docekal, Karel Ondrej, Pavel Smrz, Hao Cheng, Yelong Shen, Xiaodong Liu, Pengcheng He, Weizhu Chen, Jianfeng Gao, Barlas Oguz, Xilun Chen, Vladimir Karpukhin, Stan Peshterliev, Dmytro Okhonko, Michael Schlichtkrull, Sonal Gupta, Yashar Mehdad, Wen-tau Yih. NeurIPS 2020 EfficientQA Competition: Systems, Analyses and Lessons Learned. CoRR, arXiv:2101.00133, December 2020. [arXiv](https://arxiv.org/abs/2101.00133)
 
 ### 学位論文
+
+#### 博士論文
+
+Modeling Textual Entity Knowledge for Question Answering
 
 #### 修士論文
 
