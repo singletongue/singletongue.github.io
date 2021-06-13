@@ -96,8 +96,9 @@ Wikipedia 記事への拡張固有表現ラベルの多重付与 [論文PDF](htt
 - TOEFL ITP テスト 623点（2013年）
 - 実用英語技能検定 準1級（2010年）
 - 日本漢字能力検定 準1級（2019年）
-- [第5回謎解き能力検定](https://www.nazoken.com/result/index.html) 準1級（2019年）
-- [第6回謎解き能力検定](https://www.nazoken.com/result/index.html) 準2級（2020年）
+- [第5回謎解き能力検定](https://www.nazoken.com/) 準1級（2019年）
+- [第6回謎解き能力検定](https://www.nazoken.com/) 準2級（2020年）
+- [第7回謎解き能力検定](https://www.nazoken.com/) 準1級（2021年）
 
 ## クイズ番組出場歴
 
