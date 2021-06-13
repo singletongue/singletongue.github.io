@@ -11,7 +11,7 @@
 
 ## 略歴
 
-2021/04--現在: [株式会社 Studio Ousia](https://www.ousia.jp/ja/)
+2021/04--現在: [株式会社 Studio Ousia](https://www.ousia.jp/ja/) ソフトウェアエンジニア
 2019/05--2021/03: [理化学研究所 革新知能統合研究センター](https://www.riken.jp/research/labs/aip/) [言語情報アクセス技術チーム](https://www.riken.jp/research/labs/aip/goalorient_tech/lang_inf_access_tech/index.html) 研修生
 2019/04--2021/03: [日本学術振興会 特別研究員](https://www.jsps.go.jp/j-pd/index.html)（DC2）
 2018/04--2021/03: [東北大学 大学院情報科学研究科](https://www.is.tohoku.ac.jp/) 博士後期課程（修了）
