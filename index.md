@@ -11,6 +11,7 @@
 
 ## 略歴
 
+2021/06--現在: 東北大学 データ駆動科学・AI教育研究センター 学術研究員
 2021/04--現在: [株式会社 Studio Ousia](https://www.ousia.jp/ja/) ソフトウェアエンジニア
 2019/05--2021/03: [理化学研究所 革新知能統合研究センター](https://www.riken.jp/research/labs/aip/) [言語情報アクセス技術チーム](https://www.riken.jp/research/labs/aip/goalorient_tech/lang_inf_access_tech/index.html) 研修生
 2019/04--2021/03: [日本学術振興会 特別研究員](https://www.jsps.go.jp/j-pd/index.html)（DC2）
@@ -23,9 +24,9 @@
 
 ## 研究活動
 
-### [AI王 〜クイズAI日本一決定戦〜](https://www.nlp.ecei.tohoku.ac.jp/projects/aio/)
+### [AI王 〜クイズAI日本一決定戦〜](https://sites.google.com/view/project-aio/home)
 
-国内における質問応答研究の活性化を目的とした、解答者がすべて人工知能のクイズ大会。第1回は20択クイズを題材に、言語処理学会第27回年次大会 (NLP 2021) におけるワークショップにて開催。第2回は2021年度内に開催予定。
+国内における質問応答研究の活性化を目的とした、解答者がすべて人工知能のクイズ大会。第1回は20択クイズを題材に、言語処理学会第27回年次大会 (NLP 2021) におけるワークショップにて開催。第2回は選択肢なしのクイズを題材に、2021年度開催。
 
 ## 公開リソース
 
@@ -69,7 +70,7 @@
 ### そのほか（学会記事など）
 
 1. 鈴木潤, 松田耕史, <u>鈴木正敏</u>, 加藤拓真, 宮脇峻平, 西田京介. ライブコンペティション：「AI 王～クイズ AI 日本一決定戦～」. 自然言語処理, Vol.28, No.3, pp.888--894, September 2021. [DOI](https://doi.org/10.5715/jnlp.28.888)
-1. Sewon Min, Jordan Boyd-Graber, Chris Alberti, Danqi Chen, Eunsol Choi, Michael Collins, Kelvin Guu, Hannaneh Hajishirzi, Kenton Lee, Jennimaria Palomaki, Colin Raffel, Adam Roberts, Tom Kwiatkowski, Patrick Lewis, Yuxiang Wu, Heinrich Küttler, Linqing Liu, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel, Sohee Yang, Minjoon Seo, Gautier Izacard, Fabio Petroni, Lucas Hosseini, Nicola De Cao, Edouard Grave, Ikuya Yamada, Sonse Shimaoka, <u>Masatoshi Suzuki</u>, Shumpei Miyawaki, Shun Sato, Ryo Takahashi, Jun Suzuki, Martin Fajcik, Martin Docekal, Karel Ondrej, Pavel Smrz, Hao Cheng, Yelong Shen, Xiaodong Liu, Pengcheng He, Weizhu Chen, Jianfeng Gao, Barlas Oguz, Xilun Chen, Vladimir Karpukhin, Stan Peshterliev, Dmytro Okhonko, Michael Schlichtkrull, Sonal Gupta, Yashar Mehdad, Wen-tau Yih. NeurIPS 2020 EfficientQA Competition: Systems, Analyses and Lessons Learned. CoRR, arXiv:2101.00133, December 2020. [arXiv](https://arxiv.org/abs/2101.00133)
+1. Sewon Min, Jordan Boyd-Graber, Chris Alberti, Danqi Chen, Eunsol Choi, Michael Collins, Kelvin Guu, Hannaneh Hajishirzi, Kenton Lee, Jennimaria Palomaki, Colin Raffel, Adam Roberts, Tom Kwiatkowski, Patrick Lewis, Yuxiang Wu, Heinrich Küttler, Linqing Liu, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel, Sohee Yang, Minjoon Seo, Gautier Izacard, Fabio Petroni, Lucas Hosseini, Nicola De Cao, Edouard Grave, Ikuya Yamada, Sonse Shimaoka, <u>Masatoshi Suzuki</u>, Shumpei Miyawaki, Shun Sato, Ryo Takahashi, Jun Suzuki, Martin Fajcik, Martin Docekal, Karel Ondrej, Pavel Smrz, Hao Cheng, Yelong Shen, Xiaodong Liu, Pengcheng He, Weizhu Chen, Jianfeng Gao, Barlas Oguz, Xilun Chen, Vladimir Karpukhin, Stan Peshterliev, Dmytro Okhonko, Michael Schlichtkrull, Sonal Gupta, Yashar Mehdad, Wen-tau Yih. NeurIPS 2020 EfficientQA Competition: Systems, Analyses and Lessons Learned. In Proceedings of the NeurIPS 2020 Competition and Demonstration Track, PMLR 133:86-111, August 2021. [論文PDF](http://proceedings.mlr.press/v133/min21a/min21a.pdf)
 
 ### 学位論文
 
