@@ -2,7 +2,7 @@
 
 鈴木正敏（すずき・まさとし）
 
-博士（情報科学）。2021年東北大学大学院情報科学研究科博士後期課程修了。現在、株式会社 Studio Ousia ソフトウェアエンジニア。
+[株式会社 Studio Ousia](https://www.ousia.jp/ja/) ソフトウェアエンジニア。[東北大学データ駆動科学・AI教育研究センター](https://www.cds.tohoku.ac.jp/) 学術研究員。
 
 - Twitter [@fivehints](https://twitter.com/fivehints)
 - GitHub [@singletongue](https://github.com/singletongue/)
@@ -10,7 +10,7 @@
 ## 略歴
 
 2021/06--現在: 東北大学 データ駆動科学・AI教育研究センター 学術研究員（パートタイム）
-2021/04--現在: [株式会社 Studio Ousia](https://www.ousia.jp/ja/) ソフトウェアエンジニア
+2021/04--現在: 株式会社 Studio Ousia ソフトウェアエンジニア
 2019/05--2021/03: [理化学研究所 革新知能統合研究センター](https://www.riken.jp/research/labs/aip/) [言語情報アクセス技術チーム](https://www.riken.jp/research/labs/aip/goalorient_tech/lang_inf_access_tech/index.html) 研修生
 2019/04--2021/03: [日本学術振興会 特別研究員](https://www.jsps.go.jp/j-pd/index.html)（DC2）
 2018/04--2021/03: [東北大学 大学院情報科学研究科](https://www.is.tohoku.ac.jp/) 博士後期課程（修了）
@@ -38,17 +38,22 @@
 
 ## 論文・発表
 
+### 著書
+
+1. 山田育矢, <u>鈴木正敏</u>, 山田康輔, 李凌寒. 大規模言語モデル入門. 技術評論社, July 2023. [Link](https://gihyo.jp/book/2023/978-4-297-13633-8)
+
 ### 論文誌
 
+1. 有山知希, 鈴木潤, <u>鈴木正敏</u>, 田中涼太, 赤間怜奈, 西田京介. クイズコンペティションの結果分析から見た日本語質問応答の到達点と課題. 自然言語処理, Vol.31, No.1, March 2024. [Link](https://www.anlp.jp/guide/saitaku.html)
 1. <u>鈴木正敏</u>, 松田耕史, 大内啓樹, 鈴木潤, 乾健太郎. データ指向型アプローチによるクローズドブック質問応答. 自然言語処理, Vol.28, No.1, pp.3--25, March 2021. [DOI](https://doi.org/10.5715/jnlp.28.3)
 1. <u>Masatoshi Suzuki</u>, Koji Matsuda, Satoshi Sekine, Naoaki Okazaki, Kentaro Inui. A Joint Neural Model for Fine-Grained Named Entity Classification of Wikipedia Articles. IEICE Transactions on Information and Systems, Vol. E101.D, No.1, pp.73--81, January 2018. [DOI](https://doi.org/10.1587/transinf.2017SWP0005)
 
-### 国際会議論文（査読あり）
+### 国際会議（査読あり）
 
 1. <u>Masatoshi Suzuki</u>, Koji Matsuda, Satoshi Sekine, Naoaki Okazaki, Kentaro Inui. Neural Joint Learning for Classifying Wikipedia Articles into Fine-grained Named Entity Types. In Proceedings of the 30th Pacific Asia Conference on Language, Information and Computation (PACLIC 30), October 2016. [論文PDF](https://www.aclweb.org/anthology/Y/Y16/Y16-3027.pdf)
 1. <u>Masatoshi Suzuki</u>, Koji Matsuda, Satoshi Sekine, Naoaki Okazaki, Kentaro Inui. Fine-Grained Named Entity Classification with Wikipedia Article Vectors. In 2016 IEEE/WIC/ACM International Conference on Web Intelligence (WI 2016), October 2016. [DOI](https://doi.org/10.1109/WI.2016.0080)
 
-### 国内会議論文（査読なし）
+### 国内会議（査読なし）
 
 1. <u>鈴木正敏</u>, 松田耕史, 大内啓樹, 鈴木潤, 乾健太郎. オープンドメイン質問応答における解答可能性判別の役割. 言語処理学会 第27回年次大会 (NLP 2021), March 2021. [論文PDF](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/A5-4.pdf) <u>**委員特別賞**</u>
 1. <u>鈴木正敏</u>, 鈴木潤, 松田耕史, 西田京介, 井之上直也. JAQKET: クイズを題材にした日本語QAデータセットの構築. 言語処理学会 第26回年次大会 (NLP 2020), pp.237--240, March 2020. [論文PDF](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P2-24.pdf)
@@ -65,24 +70,28 @@
 1. <u>鈴木正敏</u>, 松田耕史, 関根聡, 岡崎直観, 乾健太郎. Wikipedia 記事に対する拡張固有表現ラベルの多重付与. 言語処理学会 第22回年次大会 (NLP 2016), pp.797--800, March 2016. [論文PDF](http://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/A5-2.pdf)
 1. <u>鈴木正敏</u>, 松田耕史, 関根聡, 岡崎直観, 乾健太郎. Wikipedia エントリの拡張固有表現階層への自動分類. 第10回NLP若手の会 シンポジウム (YANS 2015), September 2015.
 
+### 招待講演
+
+1. <u>鈴木正敏</u>. 日本語質問応答研究に対して私が出した「答案」. 第18回NLP若手の会 シンポジウム (YANS 2023), August 2023.
+
 ### そのほか（学会記事など）
 
 1. 鈴木潤, 松田耕史, <u>鈴木正敏</u>, 加藤拓真, 宮脇峻平, 西田京介. ライブコンペティション：「AI 王～クイズ AI 日本一決定戦～」. 自然言語処理, Vol.28, No.3, pp.888--894, September 2021. [DOI](https://doi.org/10.5715/jnlp.28.888)
 1. Sewon Min, Jordan Boyd-Graber, Chris Alberti, Danqi Chen, Eunsol Choi, Michael Collins, Kelvin Guu, Hannaneh Hajishirzi, Kenton Lee, Jennimaria Palomaki, Colin Raffel, Adam Roberts, Tom Kwiatkowski, Patrick Lewis, Yuxiang Wu, Heinrich Küttler, Linqing Liu, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel, Sohee Yang, Minjoon Seo, Gautier Izacard, Fabio Petroni, Lucas Hosseini, Nicola De Cao, Edouard Grave, Ikuya Yamada, Sonse Shimaoka, <u>Masatoshi Suzuki</u>, Shumpei Miyawaki, Shun Sato, Ryo Takahashi, Jun Suzuki, Martin Fajcik, Martin Docekal, Karel Ondrej, Pavel Smrz, Hao Cheng, Yelong Shen, Xiaodong Liu, Pengcheng He, Weizhu Chen, Jianfeng Gao, Barlas Oguz, Xilun Chen, Vladimir Karpukhin, Stan Peshterliev, Dmytro Okhonko, Michael Schlichtkrull, Sonal Gupta, Yashar Mehdad, Wen-tau Yih. NeurIPS 2020 EfficientQA Competition: Systems, Analyses and Lessons Learned. In Proceedings of the NeurIPS 2020 Competition and Demonstration Track, PMLR 133:86-111, August 2021. [論文PDF](http://proceedings.mlr.press/v133/min21a/min21a.pdf)
 
-### 学位論文
+## 学位論文
 
-#### 博士論文
+### 博士論文
 
-Modeling Textual Entity Knowledge for Question Answering [論文書誌情報・PDF](http://hdl.handle.net/10097/00134534)
+- Modeling Textual Entity Knowledge for Question Answering [論文書誌情報・PDF](http://hdl.handle.net/10097/00134534)
 
-#### 修士論文
+### 修士論文
 
-情報検索と文章読解を組み合わせた質問応答システム [論文PDF](http://www.cl.ecei.tohoku.ac.jp/publications/2018/master_thesis_m-suzuki.pdf)
+- 情報検索と文章読解を組み合わせた質問応答システム [論文PDF](http://www.cl.ecei.tohoku.ac.jp/publications/2018/master_thesis_m-suzuki.pdf)
 
-#### 卒業論文
+### 卒業論文
 
-Wikipedia 記事への拡張固有表現ラベルの多重付与 [論文PDF](http://www.cl.ecei.tohoku.ac.jp/publications/2016/msuzuki_bthesis.pdf)
+- Wikipedia 記事への拡張固有表現ラベルの多重付与 [論文PDF](http://www.cl.ecei.tohoku.ac.jp/publications/2016/msuzuki_bthesis.pdf)
 
 ## 受賞
 
