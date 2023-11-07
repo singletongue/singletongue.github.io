@@ -2,7 +2,7 @@
 
 鈴木正敏（すずき・まさとし）
 
-[株式会社 Studio Ousia](https://www.ousia.jp/ja/) ソフトウェアエンジニア。[東北大学データ駆動科学・AI教育研究センター](https://www.cds.tohoku.ac.jp/) 学術研究員。
+[株式会社 Studio Ousia](https://www.ousia.jp/ja/) ソフトウェアエンジニア。[東北大学データ駆動科学・AI教育研究センター](https://www.cds.tohoku.ac.jp/) 学術研究員。2021年東北大学大学院情報科学研究科博士後期課程修了。博士（情報科学）。
 
 - Twitter [@fivehints](https://twitter.com/fivehints)
 - GitHub [@singletongue](https://github.com/singletongue/)
