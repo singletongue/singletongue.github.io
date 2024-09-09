@@ -40,11 +40,12 @@
 
 ### 著書
 
+1. 山田育矢, <u>鈴木正敏</u>, 西川荘介, 藤井一喜, 山田康輔, 李凌寒. 大規模言語モデル入門Ⅱ 〜生成型LLMの実装と評価. 技術評論社, September 2024. [Link](https://gihyo.jp/book/2024/978-4-297-14393-0)
 1. 山田育矢, <u>鈴木正敏</u>, 山田康輔, 李凌寒. 大規模言語モデル入門. 技術評論社, July 2023. [Link](https://gihyo.jp/book/2023/978-4-297-13633-8)
 
 ### 論文誌
 
-1. 有山知希, 鈴木潤, <u>鈴木正敏</u>, 田中涼太, 赤間怜奈, 西田京介. クイズコンペティションの結果分析から見た日本語質問応答の到達点と課題. 自然言語処理, Vol.31, No.1, March 2024. [Link](https://www.anlp.jp/guide/saitaku.html)
+1. 有山知希, 鈴木潤, <u>鈴木正敏</u>, 田中涼太, 赤間怜奈, 西田京介. クイズコンペティションの結果分析から見た日本語質問応答の到達点と課題. 自然言語処理, Vol.31, No.1, pp.47--78, March 2024. [DOI](https://doi.org/10.5715/jnlp.31.47)
 1. <u>鈴木正敏</u>, 松田耕史, 大内啓樹, 鈴木潤, 乾健太郎. データ指向型アプローチによるクローズドブック質問応答. 自然言語処理, Vol.28, No.1, pp.3--25, March 2021. [DOI](https://doi.org/10.5715/jnlp.28.3)
 1. <u>Masatoshi Suzuki</u>, Koji Matsuda, Satoshi Sekine, Naoaki Okazaki, Kentaro Inui. A Joint Neural Model for Fine-Grained Named Entity Classification of Wikipedia Articles. IEICE Transactions on Information and Systems, Vol. E101.D, No.1, pp.73--81, January 2018. [DOI](https://doi.org/10.1587/transinf.2017SWP0005)
 
@@ -55,6 +56,7 @@
 
 ### 国内会議（査読なし）
 
+1. <u>鈴木正敏</u>. 4択クイズを題材にした多肢選択式日本語質問応答データセットの構築. 言語処理学会第30回年次大会併設ワークショップ 日本語言語資源の構築と利用性の向上 (JLR2024), March 2024. [スライドPDF](https://jedworkshop.github.io/JLR2024/materials/a-1.pdf)
 1. <u>鈴木正敏</u>, 松田耕史, 大内啓樹, 鈴木潤, 乾健太郎. オープンドメイン質問応答における解答可能性判別の役割. 言語処理学会 第27回年次大会 (NLP 2021), March 2021. [論文PDF](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/A5-4.pdf) <u>**委員特別賞**</u>
 1. <u>鈴木正敏</u>, 鈴木潤, 松田耕史, 西田京介, 井之上直也. JAQKET: クイズを題材にした日本語QAデータセットの構築. 言語処理学会 第26回年次大会 (NLP 2020), pp.237--240, March 2020. [論文PDF](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P2-24.pdf)
 1. <u>鈴木正敏</u>, 松田耕史, 大内啓樹, 鈴木潤, 乾健太郎. クイズ解答タスクにおける大規模ラベルなしコーパスの利用: 言語モデルとデータ拡張. 情報処理学会 第241回自然言語処理研究会 (IPSJ-SIGNL), August 2019. <u>**優秀研究賞**</u>
@@ -141,5 +143,6 @@
 - 『東大王ファンクリエイターズ』で作成したクイズ問題が『東大王』で採用
     1. 2022年3月9日放送回
         - 番組史上採用第1号
+        - 2024年1月17日放送回の「東大王が選ぶ歴代ひらめき問題ランキング」にて全925問中の第4位に選出（視聴者作成問題で唯一のランクイン）
     1. 『東大王春のファン祭り2022』4公演目（2022年4月3日）
     1. 2022年4月20日放送回
