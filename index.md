@@ -45,7 +45,7 @@
 
 ### 論文誌
 
-1. 有山知希, 鈴木潤, <u>鈴木正敏</u>, 田中涼太, 赤間怜奈, 西田京介. クイズコンペティションの結果分析から見た日本語質問応答の到達点と課題. 自然言語処理, Vol.31, No.1, pp.47--78, March 2024. [DOI](https://doi.org/10.5715/jnlp.31.47)
+1. 有山知希, 鈴木潤, <u>鈴木正敏</u>, 田中涼太, 赤間怜奈, 西田京介. クイズコンペティションの結果分析から見た日本語質問応答の到達点と課題. 自然言語処理, Vol.31, No.1, pp.47--78, March 2024. [DOI](https://doi.org/10.5715/jnlp.31.47) <u>**最優秀論文賞**</u>
 1. <u>鈴木正敏</u>, 松田耕史, 大内啓樹, 鈴木潤, 乾健太郎. データ指向型アプローチによるクローズドブック質問応答. 自然言語処理, Vol.28, No.1, pp.3--25, March 2021. [DOI](https://doi.org/10.5715/jnlp.28.3)
 1. <u>Masatoshi Suzuki</u>, Koji Matsuda, Satoshi Sekine, Naoaki Okazaki, Kentaro Inui. A Joint Neural Model for Fine-Grained Named Entity Classification of Wikipedia Articles. IEICE Transactions on Information and Systems, Vol. E101.D, No.1, pp.73--81, January 2018. [DOI](https://doi.org/10.1587/transinf.2017SWP0005)
 
@@ -99,6 +99,8 @@
 
 ## 受賞
 
+1. 言語処理学会2024年度最優秀論文賞（2025年3月7日）
+    - クイズコンペティションの結果分析から見た日本語質問応答の到達点と課題
 1. 言語処理学会第27回年次大会 委員特別賞（2021年3月18日）
     - オープンドメイン質問応答における解答可能性判別の役割
 1. 情報処理学会第241回自然言語処理研究会 優秀研究賞（2019年8月31日）
