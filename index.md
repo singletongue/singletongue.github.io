@@ -81,6 +81,7 @@
 
 ### そのほか（学会記事など）
 
+1. Ikuya Yamada, Wataru Ikeda, Ko Yoshida, Mengyu Ye, Hinata Sugimoto, <u>Masatoshi Suzuki</u>, Hisanori Ozaki, Jun Suzuki. An Open and Reproducible Deep Research Agent for Long-Form Question Answering. arXiv:2512.13059, December 2025. [arXiv](https://arxiv.org/abs/2512.13059)
 1. 鈴木潤, 松田耕史, <u>鈴木正敏</u>, 加藤拓真, 宮脇峻平, 西田京介. ライブコンペティション：「AI 王～クイズ AI 日本一決定戦～」. 自然言語処理, Vol.28, No.3, pp.888--894, September 2021. [DOI](https://doi.org/10.5715/jnlp.28.888)
 1. Sewon Min, Jordan Boyd-Graber, Chris Alberti, Danqi Chen, Eunsol Choi, Michael Collins, Kelvin Guu, Hannaneh Hajishirzi, Kenton Lee, Jennimaria Palomaki, Colin Raffel, Adam Roberts, Tom Kwiatkowski, Patrick Lewis, Yuxiang Wu, Heinrich Küttler, Linqing Liu, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel, Sohee Yang, Minjoon Seo, Gautier Izacard, Fabio Petroni, Lucas Hosseini, Nicola De Cao, Edouard Grave, Ikuya Yamada, Sonse Shimaoka, <u>Masatoshi Suzuki</u>, Shumpei Miyawaki, Shun Sato, Ryo Takahashi, Jun Suzuki, Martin Fajcik, Martin Docekal, Karel Ondrej, Pavel Smrz, Hao Cheng, Yelong Shen, Xiaodong Liu, Pengcheng He, Weizhu Chen, Jianfeng Gao, Barlas Oguz, Xilun Chen, Vladimir Karpukhin, Stan Peshterliev, Dmytro Okhonko, Michael Schlichtkrull, Sonal Gupta, Yashar Mehdad, Wen-tau Yih. NeurIPS 2020 EfficientQA Competition: Systems, Analyses and Lessons Learned. In Proceedings of the NeurIPS 2020 Competition and Demonstration Track, PMLR 133:86-111, August 2021. [論文PDF](http://proceedings.mlr.press/v133/min21a/min21a.pdf)
 
