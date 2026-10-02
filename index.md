@@ -9,6 +9,7 @@
 
 ## 略歴
 
+2026/10--現在: [東京理科大学 創域情報学部情報理工学科](https://www.tus.ac.jp/academics/faculty/informationsciencetechnology/informationsciencetechnology/) 客員研究員
 2025/04--2026/03: [東北大学 言語AI研究センター](https://langai.tohoku.ac.jp/) 学術研究員（パートタイム）
 2021/06--2025/03: [東北大学 データ駆動科学・AI教育研究センター](https://www.cds.tohoku.ac.jp/) 学術研究員（パートタイム）
 2021/04--現在: [株式会社 Studio Ousia](https://www.ousia.jp/ja/) ソフトウェアエンジニア
